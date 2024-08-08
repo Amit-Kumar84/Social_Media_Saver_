@@ -24,6 +24,7 @@
 ## Download
 
 Download the latest version of the app from the link below:
+[Download Source Code](https://github.com/Amit-Kumar84/Social_Media_Saver/archive/refs/heads/master.zip)
 
 [Download APK](https://example.com/download/social-media-saver.apk)
 
