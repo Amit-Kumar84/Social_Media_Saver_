@@ -25,6 +25,7 @@
 
 Download the latest version of the app from the link below:
 
+
 [Download APK](https://example.com/download/social-media-saver.apk)
 
 Or get it on Google Play:
@@ -71,6 +72,9 @@ The app requires the following permissions:
     ```sh
     git clone https://github.com/amitkumar-84/social-media-saver.git
     ```
+                        or
+[Download Source Code](https://github.com/Amit-Kumar84/Social_Media_Saver/archive/refs/heads/master.zip)
+
 2. Open the project in Android Studio.
 3. Build the project using Gradle.
 
