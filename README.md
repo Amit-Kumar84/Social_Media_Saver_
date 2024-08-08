@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Amit-Kumar84/Social_Media_Saver/tree/master/app/assest/screenshot/img5.png)
+![Screenshot 1](https://github.com/Amit-Kumar84/Social_Media_Saver/tree/master/app/assest/screenshot/img5.jpg)
 ![Screenshot 2](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img1.jpg)
 ![Screenshot 3](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img2.jpg)
 ![Screenshot 4](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img3.jpg)
