@@ -24,8 +24,10 @@
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img1.jpg)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 2](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img2.jpg)
+![Screenshot 3](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img3.jpg)
+![Screenshot 4](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img4.jpg)
+![Screenshot 5](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/assest/screenshot/img5.jpg)
 
 ## Download
 
