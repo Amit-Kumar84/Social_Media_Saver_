@@ -14,6 +14,12 @@
 - **User-Friendly Interface**: Simple and intuitive UI for seamless navigation.
 - **Ad Integration**: Monetize your app with Google AdMob integration.
 - **Offline Access**: Access your downloaded media even when offline.
+- **WhatsApp Media Access**: Special handling for accessing and downloading WhatsApp media, including support for both regular and business versions.
+- **Custom Tabs**: Custom tab views for better organization of media content.
+- **Progress Dialogs**: Informative progress dialogs to keep users updated during media loading.
+- **Permission Handling**: Efficient handling of storage permissions, including support for scoped storage on Android Q and above.
+- **Refresh Media**: Pull-to-refresh functionality to update the media list.
+- **Share Media**: Share your downloaded media with friends and family.
 
 ## Screenshots
 
@@ -24,7 +30,6 @@
 ## Download
 
 Download the latest version of the app from the link below:
-[Download Source Code](https://github.com/Amit-Kumar84/Social_Media_Saver/archive/refs/heads/master.zip)
 
 
 [Download APK](https://example.com/download/social-media-saver.apk)
@@ -88,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact us at support@example.com.
+For any inquiries or support, please contact us at rajputdevloper@gmail.com
 
 ## Developer
 
