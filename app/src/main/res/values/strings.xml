@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Social Media Saver</string>
+    <string name="todo">TODO</string>
+
+    <string name="tag_line" translatable="false">Download Status/Story on One Click</string>
+    <string name="about_content">Version: 1.1\nDeveloped by:-\rajputdevloper@gmail.com</string>
+    <string name="insta_app_name">Instagram</string>
+    <string name="insta_tag"><![CDATA[Download Instagram Images & Videos]]></string>
+
+    <string name="whatsapp_app_name">Whatsapp</string>
+    <string name="whatsapp_business_app_name">Whatsapp Business</string>
+    <string name="whatsapp_tag"><![CDATA[Save Whatsapp Status Image & Videos]]></string>
+    <string name="facebook_app_name">Facebook</string>
+    <string name="fcebook_tag">Download Facebook Videos</string>
+    <string name="gallery_name">Gallery</string>
+    <string name="gallery_tag">View All Your Downloaded Media</string>
+    <string name="aboutus_name">About Us</string>
+    <string name="aboutus_tag">Know More About App</string>
+    <string name="share_app_name">Share App</string>
+    <string name="share_app_tag">Share App with Your Friends</string>
+    <string name="rate_app_name">Rate App</string>
+    <string name="rate_tag">Show Some Love. Rate on Play Store</string>
+    <string name="more_app_name">More App</string>
+    <string name="more_app_tag">View Our Other Creations</string>
+
+    <string name="pls_bck_again">Please click BACK again to exit</string>
+    <string name="ok">OK</string>
+    <string name="app_not_available">App Not Available.</string>
+    <string name="share_app_message">Download All Videos using this app. Download Now</string>
+    <string name="no_app_installed">No application found to open this file.</string>
+    <string name="whatsapp_not_installed">Whtasapp not installed.</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="download_started">Download Started</string>
+    <string name="gallery">Gallery</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="file_deleted">File Deleted\n</string>
+    <string name="do_u_want_to_dlt">Do You Want to Delete</string>
+    <string name="no_result_found">No Result Found\n</string>
+    <string name="allow_whatsapp_access">Allow WhatsApp Access</string>
+    <string name="allow_app_to_access_whatsapp_status_folder">Allow app to Access Whatsapp Folder</string>
+    <string name="allow_whatsapp">Allow Whatsapp</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="download">Download</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="wrong_folder">Wrong Folder</string>
+    <string name="selected_wrong_folder">Selected Wrong Folder</string>
+    <string name="saved_to">Saved to</string>
+
+    <!--About Page-->
+    <string name="version_name">Version</string>
+    <string name="version_tag"> Version 1.0.0</string>
+    <string name="company_name_title">Company</string>
+    <string name="company_tag_name">Rajput Dev Team</string>
+    <string name="email_title">Email</string>
+    <string name="email_tag">rajputdevlopere@gmail.com</string>
+    <string name="website_title">Website</string>
+    <string name="website_tag">https://mrhackerofical.com/</string>
+    <string name="contact_title">Contact</string>
+    <string name="contact_tag">+91-8865877302</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="privacy_tag">Click to Read Privacy Policy</string>
+    <string name="about_title">About</string>
+    <string name="second_how_too">2. Share with All in One Status Saver</string>
+    <string name="fourth_how_too">2. Open All in One Status Saver</string>
+    <string name="prv_policy">Privacy Policy</string>
+    <string name="allow_whatsapp_business">Allow Whatsapp Business</string>
+    <string name="allow_app_to_access_whatsapp_business_status_folder">Allow to Acess Whatsapp Business Status Folder</string>
+    <string name="allow_to_access_whatsapp_business_status_folder">Allow to Access WhatsApp Business Status Folder</string>
+    <string name="whatsapp_business">Whatsapp Business</string>
+    <string name="allow_whatsapp_business_">Allow WhatsApp Business</string>
+    <string name="allow_whatsapp_business_access">Allow Whatsapp Busniess Access</string>
+</resources>

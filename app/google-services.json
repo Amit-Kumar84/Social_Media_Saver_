@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872482779690",
+    "project_id": "social-media-saver-49035",
+    "storage_bucket": "social-media-saver-49035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872482779690:android:869f6b844ba94abba98953",
+        "android_client_info": {
+          "package_name": "com.rajput.socialmediasaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rblks3u_m_-bIk5UHdtUUB9_7TWj3mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
