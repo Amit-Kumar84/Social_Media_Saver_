@@ -35,7 +35,7 @@
 Download the latest version of the app from the link below:
 
 
-[Download APK](https://example.com/download/social-media-saver.apk)
+[Download APK](https://github.com/Amit-Kumar84/Social_Media_Saver/blob/master/app/release/app-release.apk?raw=true)
 
 Or get it on Google Play:
 
